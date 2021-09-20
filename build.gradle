@@ -32,7 +32,7 @@ dependencies {
 	// https://mvnrepository.com/artifact/io.springfox/springfox-swagger-ui
 	//implementation group: 'io.springfox', name: 'springfox-swagger-ui', version: '2.9.0'
 
-	testImplementation group: 'io.rest-assured', name: 'spring-mock-mvc', version: '3.0.0'
+	testImplementation group: 'io.rest-assured', name: 'spring-mock-mvc', version: '4.4.0'
 
 }
 
